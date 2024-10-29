@@ -1,5 +1,8 @@
 # Deep Image Blending
 This is an extension version of the paper "Deep Image Blending". 
+We design a locater to select the blending area.
+Losses were fine-tuned to get better performance.
+We proposed the GAN-based method for further enhancing the performance.(TBA)
 
 [Deep Image Blending](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Deep_Image_Blending_WACV_2020_paper.pdf) <br />
 [Lingzhi Zhang](https://owenzlz.github.io/), [Tarmily Wen](https://github.com/ChickenTarm), [Jianbo Shi](https://www.cis.upenn.edu/~jshi/)  <br />
